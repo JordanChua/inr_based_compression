@@ -1,0 +1,1 @@
+"/content/exp/maml_kodak/maml/MAML_DIV2K_1x_batch_size1_epochs30_outer_lr5e-05_inner_lr1e-05_lr_type_per_parameter_per_step_adapt_steps3_ffdims_16_hdims32_hlayer3_nerf_sine_enc_scale1.4"
